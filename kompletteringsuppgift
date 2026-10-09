@@ -1,2 +1,5 @@
 /* Lösning till kompletteringsuppgift. Av Loic Leroy, 2026 */
 "use strict";
+function printMultiplicationTable(number) {
+
+}
